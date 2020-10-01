@@ -1,2 +1,6 @@
 # demo-LOGistICAL-issues
-a demonstration of how an Issues board can be set up for LOGistICAL.
+
+Use the [Issues] Section to post bug-reports or request new features.
+
+Use the [Wiki] to learn more about LOGistICAL and how the game is played
+
