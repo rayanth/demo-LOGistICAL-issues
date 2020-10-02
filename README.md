@@ -2,7 +2,7 @@ Greetings! This github repository serves as a consolidated place for reporting b
 
 LOGistICAL: Earth, like the rest of the LOGistICAL franchise, was written by sacada and is [available on Steam.](https://store.steampowered.com/app/672150/LOGistICAL_3_Earth/)
 
-The entire LOGistICAL franchise is supported by the active and very friendly Discord community. All players are welcome! <a href="https://discord.gg/xytyWUA"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
+The entire LOGistICAL franchise is supported by an active and very friendly Discord community. All players are welcome! <a href="https://discord.gg/xytyWUA"><img src="https://img.shields.io/badge/discord-join-7289DA.svg?logo=discord&longCache=true&style=flat" /></a>
 
 ## Bug Reports and Feature Requests:
 
