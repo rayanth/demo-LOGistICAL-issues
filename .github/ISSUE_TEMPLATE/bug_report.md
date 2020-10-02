@@ -12,6 +12,12 @@ In this space please provide a short description of the bug you've encountered. 
 
 Game crashes when painting a vehicle hot pink.
 
+## Game Version
+
+Please provide the version of the game that this occurred on. The version is displayed at the launch screen, and at the bottom of the Settings window after you have loaded a save. E.g.:
+
+Version: 846f
+
 ## Reproduction Steps
 
 Please provide, to the best of your ability, steps to reproduce the issue. (This helps the developer confirm the bug, determine where in the code the issue lies, and confirm that he has fixed it)
